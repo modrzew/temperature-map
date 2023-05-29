@@ -1,0 +1,3 @@
+- parse a bitmap of 
+- A* algorithm for mapping distance 
+- 
